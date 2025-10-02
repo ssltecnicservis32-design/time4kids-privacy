@@ -48,7 +48,7 @@
 
   <h2>5. İletişim</h2>
   <p>Herhangi bir sorunuz olursa bizimle şu adresten iletişime geçebilirsiniz:<br>
-  📧 <strong>[buraya e-posta adresini yaz]</strong></p>
+  📧 <strong>[ssltecnicservis32@gmail.com]</strong></p>
 
 </body>
 </html>
